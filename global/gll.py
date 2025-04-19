@@ -1,0 +1,6 @@
+print("Ttgjdghs")
+print("Ttgjdghs")
+print("Ttgjdghs")
+print("Tts")
+print("Tts")
+print("Tts")
